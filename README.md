@@ -1,3 +1,5 @@
+![emberfest logo](./images/emberfest-logo.jpg)
+
 # Workshops
 * Runloop
 * Adapters
@@ -24,4 +26,5 @@
 * [Mockjax - ObjectAdapters](extras.md#mockjax---objectadapters)
 * [Diagonal Routes](extras.md#diagonal-routes)
 
-# [Opensource importance](open-source-importance.md)
+# Opensource importance
+[...](open-source-importance.md)
