@@ -1,6 +1,7 @@
 # Extras
 
-## Ember 2.0 - Eric Bryn
+## Ember 2.0
+Speaker: Eric Bryn
 
 ## Ember CLI
 

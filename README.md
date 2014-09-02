@@ -18,10 +18,10 @@
 
 # Extras
 
-* [Ember 2.0 - Eric Bryn](extras.md#ember-20)
+* [Ember 2.0](extras.md#ember-20)
 * [Ember CLI](extras.md#ember-cli)
 * [Find vs All vs FindAll](extras.md#find-vs-all-vs-findall)
-* [Mockjax - ObjectAdapters](extras.md#mockjax-objectadapters)
+* [Mockjax - ObjectAdapters](extras.md#mockjax---objectadapters)
 * [Diagonal Routes](extras.md#diagonal-routes)
 
 # [Opensource importance](open-source-importance.md)
