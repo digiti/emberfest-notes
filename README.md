@@ -1,8 +1,8 @@
 ![emberfest logo](./images/emberfest-logo.jpg)
 
 # Workshops
-* Runloop
-* Adapters
+* [Runloop](workshops.md#runloop)
+* [Adapters](workshops.md#adapters)
 
 # Talks
 
