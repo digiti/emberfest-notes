@@ -9,8 +9,12 @@ Speaker: Luke Galea
 ## Ember Pitfals
 Speaker: Alex Speller
 
+Keynote: [Avoid common pitfalls [.pdf]](keynotes/avoid-common-pitfalls.pdf)
+
 ## Orbit
 Speaker: Dan Gebhardt
+
+Keynote: [Introducing ember orbit [pdf]](keynotes/introducing_ember-orbit.pdf)
 
 ## Firefox OS
 Speaker: Francisco Jordano
