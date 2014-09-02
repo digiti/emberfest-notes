@@ -4,15 +4,15 @@
 
 # Talks
 
-* [Broccoli.js - *Jo Liss*](talks.md)
-* [Polymorphic Associations - *Luke Galea*](talks.md)
-* [Ember Pitfals - *Alex Speller*](talks.md)
-* [Orbit - *Dan Gebhardt*](talks.md)
-* [Firefox OS - *Francisco Jordano*](talks.md)
-* [OAuth 2.0 - *Theodor Tonum*](talks.md)
-* [Testing Ember Apps, Managing Dependencies - *Matthew Beale*](talks.md)
-* [Client Side MVC !== Server Side MVC - *Jeremy Green*](talks.md)
-* [Don't call me back: what Ember does and what you also can do with promises - *Balint Erdi*](talks.md#ab)
+* [Broccoli.js - *Jo Liss*](talks.md#broccolijs)
+* [Polymorphic Associations - *Luke Galea*](talks.md#polymorphic-associations)
+* [Ember Pitfals - *Alex Speller*](talks.md#ember-pitfals)
+* [Orbit - *Dan Gebhardt*](talks.md#orbit)
+* [Firefox OS - *Francisco Jordano*](talks.md#firefox-os)
+* [OAuth 2.0 - *Theodor Tonum*](talks.md#oauth-20)
+* [Testing Ember Apps, Managing Dependencies - *Matthew Beale*](talks.md#testing-ember-apps-managing-dependencies)
+* [Client Side MVC !== Server Side MVC - *Jeremy Green*](talks.md#client-side-mvc--server-side-mvc)
+* [Don't call me back: what Ember does and what you also can do with promises - *Balint Erdi*](talks.md#dont-call-me-back-what-ember-does-and-what-you-also-can-do-with-promises)
 
 
 
