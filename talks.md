@@ -32,3 +32,5 @@ Speaker: Jeremy Green
 
 ## Don't call me back: what Ember does and what you also can do with promises
 Speaker: Balint Erdi
+
+Slidedeck: [Don't Call Me Back](https://speakerdeck.com/balint/dont-call-me-back-how-ember-uses-promises-and-how-you-can-too)
