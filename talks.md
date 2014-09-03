@@ -1,7 +1,9 @@
 # Talks
 
-## Broccoili.js
+## Broccoli.js
 Speaker: Jo Liss
+
+[Blogpost Jo Liss on Broccoli](http://www.solitr.com/blog/2014/02/broccoli-first-release/)
 
 ## Polymorphic Associations
 Speaker: Luke Galea
