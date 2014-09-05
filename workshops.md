@@ -11,3 +11,6 @@
 After you understand the basics of the Runloop, lets build your own runloop. Excercise based on branches in <https://github.com/201-created/lets-build-a-runloop>
 
 ## Adapters
+
+### Exercise
+<https://github.com/igorT/ember-training/tree/master>
