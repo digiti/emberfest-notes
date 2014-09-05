@@ -1,9 +1,13 @@
 # Talks
 
 ## Broccoli.js
-Speaker: Jo Liss
 
-[Blogpost Jo Liss on Broccoli](http://www.solitr.com/blog/2014/02/broccoli-first-release/)
+Fast client-side asset builder. Read everything about Broccoli on the [repository page](https://github.com/broccolijs/broccoli).
+More about the Broccoli architecture & what motivates some of the choices: [Jo Liss on Broccoli](http://www.solitr.com/blog/2014/02/broccoli-first-release/)
+
+
+* Speaker: Jo Liss
+* Keynote: [EmberConf 2014 No more 'grunt watch': Modern build workflows with Broccoli](https://www.youtube.com/watch?v=PEb4BiXH4bE)
 
 ## Polymorphic Associations
 Speaker: Luke Galea
